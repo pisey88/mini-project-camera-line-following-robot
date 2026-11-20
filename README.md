@@ -25,7 +25,7 @@ Watch the unedited start-to-finish robot demonstration videos here:
    ```bash
    pip install flask opencv-python numpy pyserial
    ```
-## Run the script on the Raspberry Pi (ensure app = Flask(__name__) and if __name__ == "__main__": are set in your file):
+**Run the script on the Raspberry Pi (ensure app = Flask(__name__) and if __name__ == "__main__": are set in your file):**
 
 ```Bash
 python3 line_follower.py
